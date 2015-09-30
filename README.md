@@ -20,6 +20,8 @@ chenee543216@gmail.com
 ----- 2015.9.30
 sorry,I'm so busy for now days... have no time to release the new version Bluetooth framework. this doc below FYI.
 
+DO Read this doc in plan mode,not markdown !
+
 //
 //  NewBlueDoc.m
 //  MiBand
